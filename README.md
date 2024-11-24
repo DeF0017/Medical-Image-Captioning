@@ -2,17 +2,6 @@
 
 This project, "Medical Image Captioning," aims to develop an advanced AI-based system capable of generating accurate and contextually relevant captions for complex medical images, such as chest X-rays. It integrates state-of-the-art computer vision and natural language processing techniques to enhance diagnostic workflows.
 
-## Authors
-- Gandhi Deep Bankim (2021BCS0040)
-- Rohit Raj (2021BCS0065)
-- Abhishek Raj (2021BCS0141)
-- Gaurav Yadav (2021BCS0023)
-
-### Supervisor
-- Dr. Priyadharshini S  
-  Department of Computer Science and Engineering,  
-  Indian Institute of Information Technology, Kottayam, India.
-
 ---
 
 ## Abstract
